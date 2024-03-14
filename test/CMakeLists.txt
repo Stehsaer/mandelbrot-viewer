@@ -1,0 +1,2 @@
+add_executable(color_blending_test color-blending.cpp)
+target_link_libraries(color_blending_test PRIVATE app)
